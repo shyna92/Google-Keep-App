@@ -7,7 +7,7 @@ const Footer=()=> {
     <>
     <div className="footer">
         
-        <p>Copyright</p>
+        <p>Copyright 1</p>
     </div>
     </>
   );
